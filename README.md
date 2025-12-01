@@ -1,6 +1,7 @@
 ## Sinonimi e contrari
 
 Un semplicissimo sistema per costruirsi un database per giocare a sinonimi e contrari.
+Sono ammessi un massimo di 10 sinonimi e di 10 contrari a parola.
 
 ## Come si utilizza
 
