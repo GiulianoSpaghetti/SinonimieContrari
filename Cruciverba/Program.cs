@@ -1,1175 +1,268 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-a
-abbandonare
-abbastanza
-abitare
-abito
-accadere
-accanto
-accendere
-accettare
-accogliere
-accompagnare
-accordo
-accorgersi
-acqua
-addirittura
-addosso
-adesso
-affare
-affatto
-affermare
-affrontare
-aggiungere
-ah
-aiutare
-aiuto
-albergo
-albero
-alcuno
-allontanare
-allora
-almeno
-alto
-altro
-alzare
-amare
-ambiente
-americano
-amico
-ammazzare
-ammettere
-amore
-ampio
-anche
-ancora
-andare
-angolo
-anima
-animale
-animo
-anno
-annunciare
-antico
-anzi
-apparire
-appartenere
-appena
-appoggiare
-appunto
-aprire
-argomento
-aria
-arma
-armare
-arrestare
-arrivare
-arte
-articolo
-ascoltare
-aspettare
-aspetto
-assai
-assicurare
-assistere
-assoluto
-assumere
-attaccare
-atteggiamento
-attendere
-attento
-attenzione
-attesa
-attimo
-attività
-atto
-attore
-attorno
-attraversare
-attuale
-aumentare
-automobile
-autore
-autorità
-avanti
-avanzare
-avere
-avvenire
-avvertire
-avvicinare
-avvocato
-azione
-azzurro
-baciare
-badare
-bagno
-bambina
-bambino
-base
-basso
-bastare
-battaglia
-battere
-bellezza
-bello
-bene
-bene
-bere
-bestia
-bianco
-biondo
-bisognare
-bisogno
-bocca
-bosco
-braccio
-bravo
-breve
-bruciare
-brutto
-buio
-buono
-buttare
-cadere
-caffè
-calcio
-caldo
-cambiare
-camera
-camminare
-campagna
-campo
-cane
-cantare
-capace
-capello
-capire
-capitare
-capo
-carattere
-caratteristico
-carne
-caro
-carta
-casa
-caso
-cattivo
-cattolico
-causa
-cavallo
-celebrare
-centrale
-centro
-cercare
-certamente
-certo
-che
-chi
-chiamare
-chiaro
-chiave
-chiedere
-chiesa
-chilometro
-chissà
-chiudere
-ci
-ciascuno
-cielo
-ciò
-cioè
-circa
-città
-cittadino
-civile
-civiltà
-classe
-collina
-collo
-colore
-coloro
-colpa
-colpire
-colpo
-come
-cominciare
-commercio
-commissione
-comodo
-compagnia
-compagno
-compiere
-completamente
-comporre
-comprare
-comprendere
-comune
-comunicazione
-comunque
-con
-concedere
-concetto
-concludere
-condizione
-condurre
-confessare
-confronto
-congresso
-conoscenza
-conoscere
-conseguenza
-consentire
-conservare
-considerare
-consiglio
-contadino
-contare
-contatto
-contenere
-contento
-continuare
-continuo
-conto
-contrario
-contro
-controllo
-convincere
-coprire
-coraggio
-corpo
-corrente
-correre
-corsa
-corso
-cortile
-cosa
-coscienza
-costa
-costituire
-costringere
-costruire
-costruzione
-creare
-credere
-crescere
-crisi
-cristiano
-croce
-cucina
-cui
-cultura
-cuore
-cura
-da
-dare
-davanti
-davvero
-decidere
-decisione
-dedicare
-denaro
-dente
-dentro
-descrivere
-desiderare
-desiderio
-destino
-destro
-determinare
-di
-dichiarare
-dietro
-difendere
-difesa
-differenza
-difficile
-difficoltà
-diffondere
-dimenticare
-dimostrare
-dinanzi
-dio
-dipendere
-dire
-diretto
-direttore
-direzione
-dirigere
-diritto
-discorso
-discutere
-disporre
-disposizione
-distanza
-distinguere
-distruggere
-dito
-divenire
-diventare
-diverso
-divertire
-dividere
-dolce
-dolore
-domanda
-domandare
-domani
-Domenica
-don
-donna
-dopo
-dormire
-dottore
-dove
-dovere
-dovere
-dubbio
-dunque
-durante
-durare
-duro
-e
-eccellenza
-eccetera
-ecco
-economico
-effetto
-egli
-eh
-elemento
-elettrico
-elevare
-energia
-enorme
-entrare
-entro
-epoca
-eppure
-erba
-errore
-esame
-escludere
-esempio
-esercito
-esistere
-esperienza
-esporre
-espressione
-esprimere
-essa
-essere
-esso
-estate
-estendere
-estero
-estremo
-età
-europeo
-evitare
-fabbrica
-faccia
-facile
-fame
-famiglia
-famoso
-fantasia
-fatica
-fatto
-favore
-fede
-felice
-fenomeno
-ferire
-fermare
-fermo
-ferro
-festa
-fianco
-fiducia
-figlia
-figlio
-figura
-figurare
-film
-filo
-finalmente
-finché
-fine
-finestra
-finire
-fino
-fiore
-fissare
-fiume
-foglia
-folla
-fondare
-fondo
-forma
-formare
-fornire
-forse
-forte
-fortuna
-forza
-fra
-francese
-frase
-fratello
-freddo
-fresco
-fretta
-fronte
-frutto
-fuggire
-fumare
-funzione
-fuoco
-fuori
-futuro
-gamba
-gatto
-generale
-generale
-genere
-gente
-gesto
-gettare
-già
-giallo
-giardino
-giocare
-gioco
-gioia
-giornale
-giornata
-giorno
-giovane
-giovanotto
-girare
-giro
-giù
-giudicare
-giudizio
-giugno
-giungere
-giustizia
-giusto
-godere
-governo
-grado
-grande
-grave
-grazia
-grazie
-greco
-gridare
-grigio
-grosso
-gruppo
-guardare
-guardia
-guerra
-guidare
-gusto
-idea
-ieri
-il
-immaginare
-immagine
-imparare
-impedire
-imporre
-importante
-importanza
-importare
-impossibile
-impressione
-improvviso
-in
-incontrare
-indicare
-indietro
-industria
-industriale
-infatti
-infine
-inglese
-iniziare
-inizio
-innamorare
-inoltre
-insegnare
-insieme
-insistere
-insomma
-intanto
-intendere
-intenzione
-interessante
-interessare
-interesse
-internazionale
-interno
-intero
-intorno
-inutile
-invece
-inverno
-invitare
-io
-isola
-istante
-istituto
-italiano
-là
-labbro
-lago
-lanciare
-largo
-lasciare
-latino
-lato
-latte
-lavorare
-lavoro
-legare
-legge
-leggere
-leggero
-lei
-lettera
-letto
-levare
-li
-lì
-liberare
-libero
-libertà
-libro
-limitare
-limite
-linea
-lingua
-lira
-lo
-lontano
-loro
-loro
-lotta
-luce
-lui
-luna
-lungo
-lungo
-luogo
-ma
-macchina
-madre
-maestro
-magari
-maggio
-maggiore
-malattia
-male
-mamma
-mancare
-mandare
-mangiare
-maniera
-mano
-mantenere
-mare
-marito
-massa
-massimo
-materia
-matrimonio
-mattina
-mattino
-medesimo
-medico
-medio
-meglio
-memoria
-meno
-mente
-mentre
-mercato
-meritare
-merito
-mese
-messa
-mestiere
-metà
-metro
-mettere
-mezzo
-mezzo
-mi
-migliore
-milione
-militare
-minimo
-ministro
-minore
-minuto
-mio
-misura
-moderno
-modo
-moglie
-molto
-momento
-mondo
-montagna
-monte
-morale
-morire
-morte
-mostrare
-motivo
-movimento
-muovere
-muro
-musica
-nascere
-nascondere
-natura
-naturale
-naturalmente
-nave
-nazionale
-nazione
-ne
-né
-neanche
-necessario
-necessità
-nemico
-nemmeno
-neppure
-nero
-nessuno
-niente
-no
-nobile
-noi
-nome
-non
-nord
-normale
-nostro
-notare
-notevole
-notizia
-noto
-notte
-nudo
-nulla
-numero
-numeroso
-nuovo
-o
-occasione
-occhio
-occorrere
-odore
-offendere
-offrire
-oggetto
-oggi
-ogni
-ognuno
-oh
-oltre
-ombra
-onore
-opera
-operaio
-operazione
-opinione
-opporre
-oppure
-ora
-ora
-oramai
-ordinare
-ordine
-orecchio
-organizzare
-origine
-oro
-ospedale
-osservare
-ottenere
-pace
-padre
-padrone
-paese
-pagare
-pagina
-palazzo
-pane
-papà
-parecchio
-parere
-parete
-parlare
-parola
-parte
-partecipare
-particolare
-partire
-partito
-passare
-passato
-passione
-passo
-patria
-paura
-pazzo
-peccato
-peggio
-pelle
-pena
-pensare
-pensiero
-per
-perché
-perciò
-perdere
-perfetto
-perfino
-pericolo
-pericoloso
-periodo
-permettere
-però
-persona
-personaggio
-personale
-pesare
-peso
-pezzo
-piacere
-piacere
-piangere
-piano
-piano
-pianta
-piantare
-pianura
-piazza
-piccolo
-piede
-pieno
-pietà
-pietra
-più
-piuttosto
-poco
-poesia
-poeta
-poiché
-politica
-politico
-polizia
-pomeriggio
-ponte
-popolazione
-popolo
-porre
-porta
-portare
-porto
-posare
-posizione
-possedere
-possibile
-possibilità
-posto
-potenza
-potere
-potere
-povero
-pranzo
-prato
-preciso
-preferire
-pregare
-prendere
-preoccupare
-preparare
-presentare
-presente
-presenza
-presidente
-presso
-presto
-prevedere
-prezzo
-pricipale
-prima
-primo
-principe
-principio
-privato
-probabilmente
-problema
-procedere
-processo
-prodotto
-produrre
-produzione
-professore
-profondo
-programma
-promettere
-pronto
-proporre
-proposito
-proposta
-proprio
-prossimo
-prova
-provare
-provincia
-provocare
-provvedere
-pubblicare
-pubblico
-pubblico
-punta
-punto
-pure
-puro
-qua
-quadro
-qualche
-qualcosa
-qualcuno
-quale
-qualità
-qualsiasi
-qualunque
-quanto
-quarto
-quasi
-quello
-questione
-questo
-qui
-quindi
-raccogliere
-raccontare
-ragazza
-ragazzo
-raggiungere
-ragione
-rapido
-rapporto
-rappresentare
-reale
-realtà
-recare
-recente
-regione
-regno
-relazione
-religioso
-rendere
-repubblica
-resistere
-restare
-resto
-resto
-ricchezza
-ricco
-ricerca
-ricevere
-richiedere
-riconoscere
-ricordare
-ricordo
-ridere
-ridurre
-riempire
-rientrare
-riferire
-rifiutare
-riguardare
-rimanere
-rimettere
-ringraziare
-ripetere
-riportare
-riprendere
-risolvere
-rispetto
-rispondere
-risposta
-risultare
-risultato
-ritenere
-ritornare
-ritorno
-ritrovare
-riunire
-riuscire
-riva
-rivedere
-rivelare
-rivolgere
-rivoluzione
-roba
-romano
-rompere
-rosso
-russo
-sacrificio
-sacro
-sala
-salire
-saltare
-salutare
-salvare
-sangue
-sapere
-sbagliare
-scala
-scappare
-scegliere
-scena
-scendere
-scherzare
-scienza
-scomparire
-scopo
-scoppiare
-scoprire
-scorrere
-scrittore
-scrivere
-scuola
-scusare
-se
-secolo
-secondo
-secondo
-sede
-sedere
-segnare
-segno
-segretario
-segreto
-seguire
-seguito
-sembrare
-semplice
-senso
-sentimento
-sentire
-senza
-sera
-sereno
-serie
-serio
-servire
-servizio
-settimana
-sforzo
-sguardo
-si
-sì
-sicurezza
-sicuro
-significare
-signora
-signore
-signorina
-silenzio
-simile
-sinistro
-sino
-sistema
-situazione
-smettere
-sociale
-società
-soffrire
-sognare
-sogno
-soldato
-sole
-solito
-solo
-soltanto
-soluzione
-sonno
-sopra
-soprattutto
-sorella
-sorgere
-sorprendere
-sorridere
-sorriso
-sostenere
-sottile
-sotto
-spalla
-spazio
-speciale
-specie
-spegnere
-speranza
-sperare
-spesa
-spesso
-spettacolo
-spiegare
-spingere
-spirito
-sposare
-stabilire
-staccare
-stagione
-stamattina
-stampa
-stanco
-stanza
-stare
-stasera
-stato
-stazione
-stella
-stesso
-storia
-storico
-strada
-straniero
-strano
-straordinario
-stringere
-strumento
-studiare
-studio
-stupido
-su
-subito
-succedere
-successo
-sud
-suo
-suonare
-superare
-superiore
-svegliare
-sviluppo
-svolgere
-tacere
-tagliare
-tale
-tanto
-tardi
-tavola
-tavolo
-teatro
-tecnico
-tedesco
-temere
-tempo
-tendere
-tenere
-tentare
-termine
-terreno
-territorio
-terzo
-testa
-tipo
-tirare
-titolo
-toccare
-togliere
-tono
-tornare
-tra
-tranquillo
-trarre
-trascinare
-trasformare
-trattare
-tratto
-treno
-triste
-troppo
-trovare
-tu
-tuo
-tuttavia
-tutto
-uccidere
-udire
-ufficiale
-ufficiale
-ufficio
-uguale
-ultimo
-umano
-un
-unico
-unire
-università
-uno
-uomo
-usare
-uscire
-uso
-utile
-valere
-valle
-valore
-vario
-vasto
-vecchio
-vedere
-vendere
-venire
-vento
-veramente
-verde
-verità
-verso
-vestire
-vestito
-vi
-via
-viaggio
-vicino
-villa
-vincere
-vino
-visita
-viso
-vista
-vita
-vivere
-vivo
-voce
-voglia
-voi
-volare
-volere
-volgere
-volontà
-volta
-voltare
-volto
-vostro
-vuoto
-zia
-zio
-zitto
-zona
+using Cruciverba;
+using SQLite;
+using System.Reflection;
+
+
+public class Diziozionario
+{
+    private static string cs = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "sinonimi.db");
+    private static SQLiteConnection con;
+    private static string s;
+    private static int id;
+    private static SQLite.TableQuery<Parola> query;
+    private static List<Parola> elementi;
+
+
+    public static void SetParola()
+    {
+        s = Console.ReadLine();
+        Parola p = new Parola();
+        p.parola = s;
+        con.Insert(p);
+        Console.WriteLine("Parola inserita con id: " + p.Id);
+
+    }
+
+
+    public static void addSinonimo()
+    {
+        Console.WriteLine("Inserisci l'id della parola a cui vuoi aggiungere un sinonimo:");
+        id = int.Parse(Console.ReadLine());
+        query = con.Table<Parola>().Where(x => x.Id == id);
+        elementi = query.ToList();
+        if (elementi.Count == 0)
+        {
+            Console.WriteLine("Parola non trovata.");
+            return;
+        }
+        Parola p = elementi[0];
+        if (p.sinonimi==null)
+        {
+            p.sinonimi = new List<int>();
+        }
+        if (p.sinonimo0>0) p.sinonimi.Add(p.sinonimo0);
+        if (p.sinonimo1>0) p.sinonimi.Add(p.sinonimo1);
+        if (p.sinonimo2>0) p.sinonimi.Add(p.sinonimo2);
+        if (p.sinonimo3>0) p.sinonimi.Add(p.sinonimo3);
+        if (p.sinonimo4>0) p.sinonimi.Add(p.sinonimo4);
+        if (p.sinonimo5>0) p.sinonimi.Add(p.sinonimo5);
+        if (p.sinonimo6>0) p.sinonimi.Add(p.sinonimo6);
+        if (p.sinonimo7>0) p.sinonimi.Add(p.sinonimo7);
+        if (p.sinonimo8>0) p.sinonimi.Add(p.sinonimo8);
+        if (p.sinonimo9>0) p.sinonimi.Add(p.sinonimo9);
+        Console.WriteLine("Inserisci l'id del sinonimo da aggiungere:");
+        int idSinonimo = int.Parse(Console.ReadLine());
+        if (p.sinonimi.Contains(idSinonimo))
+        {
+            Console.WriteLine("Sinonimo già presente.");
+            return;
+        }
+        p.sinonimi.Add(idSinonimo);
+        if ((p.sinonimi.Count > 0)) p.sinonimo0 = p.sinonimi[0];
+        if ((p.sinonimi.Count > 1)) p.sinonimo1 = p.sinonimi[1];
+        if ((p.sinonimi.Count > 2)) p.sinonimo2 = p.sinonimi[2];
+        if ((p.sinonimi.Count > 3)) p.sinonimo3 = p.sinonimi[3];
+        if ((p.sinonimi.Count > 4)) p.sinonimo4 = p.sinonimi[4];
+        if ((p.sinonimi.Count > 5)) p.sinonimo5 = p.sinonimi[5];
+        if ((p.sinonimi.Count > 6)) p.sinonimo6 = p.sinonimi[6];
+        if ((p.sinonimi.Count > 7)) p.sinonimo7 = p.sinonimi[7];
+        if ((p.sinonimi.Count > 8)) p.sinonimo8 = p.sinonimi[8];
+        if ((p.sinonimi.Count > 9)) p.sinonimo9 = p.sinonimi[9];
+        p.sinonimi = null;
+        con.Update(p);
+        Console.WriteLine("Sinonimo aggiunto.");
+    }
+
+    public static void addContrario()
+    {
+        Console.WriteLine("Inserisci l'id della parola a cui vuoi aggiungere un contrario:");
+        id = int.Parse(Console.ReadLine());
+        query = con.Table<Parola>().Where(x => x.Id == id);
+        elementi = query.ToList();
+        if (elementi.Count == 0)
+        {
+            Console.WriteLine("Parola non trovata.");
+            return;
+        }
+        Parola p = elementi[0];
+        if (p.contrari==null)
+        {
+            p.contrari = new List<int>();
+        }
+        if (p.contrario0>0)
+            p.contrari.Add(p.contrario0);
+        if (p.contrario1>0)
+            p.contrari.Add(p.contrario1);
+        if (p.contrario2>0)
+            p.contrari.Add(p.contrario2);
+        if (p.contrario3>0)
+            p.contrari.Add(p.contrario3);
+        if (p.contrario4>0)
+            p.contrari.Add(p.contrario4);
+        if (p.contrario5>0)
+            p.contrari.Add(p.contrario5);
+        if (p.contrario6>0)
+            p.contrari.Add(p.contrario6);
+        if (p.contrario7>0)
+            p.contrari.Add(p.contrario7);
+        if (p.contrario8>0)
+            p.contrari.Add(p.contrario8);
+        if (p.contrario9>0)
+            p.contrari.Add(p.contrario9);
+        Console.WriteLine("Inserisci l'id del contrario da aggiungere:");
+        int idContrario = int.Parse(Console.ReadLine());
+        if (p.contrari.Contains(idContrario))
+        {
+            Console.WriteLine("Contrario già presente.");
+            return;
+        }
+        p.contrari.Add(idContrario);
+        if (p.contrari.Count> 0) p.contrario0 = p.contrari[0];
+        if (p.contrari.Count> 1) p.contrario1 = p.contrari[1];
+        if (p.contrari.Count> 2) p.contrario2 = p.contrari[2];
+        if (p.contrari.Count> 3) p.contrario3 = p.contrari[3];
+        if (p.contrari.Count> 4)  p.contrario4 = p.contrari[4];
+        if (p.contrari.Count> 5)  p.contrario5 = p.contrari[5];
+        if (p.contrari.Count> 6)  p.contrario6 = p.contrari[6];
+        if (p.contrari.Count> 7)   p.contrario7 = p.contrari[7];
+        if (p.contrari.Count> 8)   p.contrario8 = p.contrari[8];
+        if (p.contrari.Count > 9) p.contrario9 = p.contrari[9];
+        p.contrari = null;
+        con.Update(p);
+        Console.WriteLine("Contrario aggiunto.");
+    }
+
+
+    public static void Main(string[] args)
+    {
+        con = new SQLiteConnection(cs);
+        con.CreateTable<Parola>();
+        VisualizzaMenu();
+        con.Close();
+    }
+
+    public static void VisualizzaParole()
+    {
+        query = con.Table<Parola>();
+        elementi = query.ToList();
+       if (elementi.Count == 0)
+        {
+            Console.WriteLine("Nessuna parola trovata.");
+            return;
+        }
+        foreach (Parola p in elementi)
+        {
+            Console.WriteLine("Id: " + p.Id + " Parola: " + p.parola);
+            if (p.sinonimi == null)
+            {
+                p.sinonimi = new List<int>();
+            }
+            if (p.sinonimo0 > 0) p.sinonimi.Add(p.sinonimo0);
+            if (p.sinonimo1 > 0) p.sinonimi.Add(p.sinonimo1);
+            if (p.sinonimo2 > 0) p.sinonimi.Add(p.sinonimo2);
+            if (p.sinonimo3 > 0) p.sinonimi.Add(p.sinonimo3);
+            if (p.sinonimo4 > 0) p.sinonimi.Add(p.sinonimo4);
+            if (p.sinonimo5 > 0) p.sinonimi.Add(p.sinonimo5);
+            if (p.sinonimo6 > 0) p.sinonimi.Add(p.sinonimo6);
+            if (p.sinonimo7 > 0) p.sinonimi.Add(p.sinonimo7);
+            if (p.sinonimo8 > 0) p.sinonimi.Add(p.sinonimo8);
+            if (p.sinonimo9 > 0) p.sinonimi.Add(p.sinonimo9);
+            if (p.sinonimi==null || p.sinonimi.Count == 0)
+            {
+                Console.WriteLine("Nessun sinonimo.");
+            }
+            else
+            {
+                Console.Write("Sinonimi: ");
+                foreach (int idSinonimo in p.sinonimi)
+                {
+                    Console.Write(idSinonimo + " ");
+                }
+                Console.WriteLine();
+            }
+            if (p.contrari == null)
+            {
+                p.contrari = new List<int>();
+            }
+            if (p.contrario0 > 0)
+                p.contrari.Add(p.contrario0);
+            if (p.contrario1 > 0)
+                p.contrari.Add(p.contrario1);
+            if (p.contrario2 > 0)
+                p.contrari.Add(p.contrario2);
+            if (p.contrario3 > 0)
+                p.contrari.Add(p.contrario3);
+            if (p.contrario4 > 0)
+                p.contrari.Add(p.contrario4);
+            if (p.contrario5 > 0)
+                p.contrari.Add(p.contrario5);
+            if (p.contrario6 > 0)
+                p.contrari.Add(p.contrario6);
+            if (p.contrario7 > 0)
+                p.contrari.Add(p.contrario7);
+            if (p.contrario8 > 0)
+                p.contrari.Add(p.contrario8);
+            if (p.contrario9 > 0)
+                p.contrari.Add(p.contrario9);
+            if (p.contrari==null || p.contrari.Count == 0)
+            {
+                Console.WriteLine("Nessun contrario.");
+            }
+            else
+            {
+                Console.Write("Contrari: ");
+                foreach (int idContrario in p.contrari)
+                {
+                    Console.Write(idContrario + " ");
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+    public static void VisualizzaMenu()
+    {
+        int s;
+        string scelta;
+        do
+        {
+            Console.WriteLine("1: Inserisci parola");
+            Console.WriteLine("2: Aggiungi sinonimo");
+            Console.WriteLine("3: Aggiungi contrario");
+            Console.WriteLine("4: Visualizza parole");
+            Console.WriteLine("0: Esci");
+            Console.Write("Scegli un'opzione: ");
+            scelta = Console.ReadLine();
+            try
+            {
+                s = int.Parse(scelta);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Valore non valido");
+                s = 5;
+            }
+            switch(s)
+            {
+                case 1:
+                    SetParola();
+                    break;
+                case 2:
+                    addSinonimo();
+                    break;
+                case 3:
+                    addContrario();
+                    break;
+                case 4:
+                    VisualizzaParole();
+                    break;
+                case 0:
+                    Console.WriteLine("Uscita in corso...");
+                    break;
+                default:
+                    Console.WriteLine("Opzione non valida.");
+                    break;
+                }
+            } while (s >0 && s <5);
+    } 
+}
