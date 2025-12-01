@@ -5,9 +5,12 @@ per cui quelli che oggi sembrano bug sono in realtà le regole del gioco, perch�
 Un semplicissimo sistema per costruirsi un database per giocare a sinonimi e contrari.
 Sono ammessi un massimo di 10 sinonimi e di 10 contrari a parola.
 
+Tuttavia è possibile scrivere due volte la stessa parola e collegarla come sinonimo o contrario per avere 9+10 slot, basta che la parola sia
+la stessa e che sia collegata direttamente, fa da ponte, quante volte si vuole.
+
 ## Come si utilizza
 
-Seguite le istruzioni a video per organizzarvi il vostro database (attenzione: c'é il numero di parole, ma non il primo id e non viene eliminato automaticamente l'id del sinonimo o del contrario).
+Seguite le istruzioni a video per organizzarvi il vostro database (attenzione: c'é il numero di parole, ma non il primo id e non viene eliminato automaticamente l'id del sinonimo o del contrario alla cancellazione della parola).
 A questo punto col programma acceso basta che dite nel microfono "ciao ia, ti va di giocare?" e giocate.
 
 ## Dove funziona il database
