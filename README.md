@@ -12,11 +12,11 @@ A questo punto col programma acceso basta che dite nel microfono "ciao ia, ti va
 Su qualsiasi sistema montante NPU che abbia il dotnet installato, anche android 16 o debian. Basta portarsi il database.
 
 ## Bug noti
-Se si elimina una parola, la gestione dei collegamenti è manuale.
+Se si elimina una parola, la gestione dei collegamenti è manuale, ma questi sono i requisiti.
 Non è possibile avere la lista di tutte le parole inserite, ma solo quante ce ne sono.
-E' possibile inserire più volte lo stesso sinonimo o contrario, tanto la IA lo ignora.
-E' possibile inserire due volte la stessa parola.
-E' possibile inserire la parola vuota.
+E' possibile inserire più volte lo stesso collegamento, tanto la IA lo ignora.
+E' possibile inserire due volte la stessa parola, ma questo è utile per il cambio di semantica. Esempio: https://sapere.virgilio.it/parole/sinonimi-e-contrari/bianco se clicate su smorto i sinonimi cambiano rispetto a bianco.
+E' possibile inserire la parola vuota ma la parola vuota è sinonimo o contrario di tutte le parole, così dicono i requisiti.
 
 ## Ispirazione per crearsi il database
 
