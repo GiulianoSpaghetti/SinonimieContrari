@@ -11,6 +11,11 @@ A questo punto col programma acceso basta che dite nel microfono "ciao ia, ti va
 ## Dove funziona il database
 Su qualsiasi sistema montante NPU che abbia il dotnet installato, anche android 16 o debian. Basta portarsi il database.
 
+## Bug noti
+Se si elimina una parola, la gestione dei collegamenti è manuale.
+Non è possibile avere la lista di tutte le parole inserite, ma solo quante ce ne sono.
+E' possibile inserire più volte lo stesso sinonimo o contrario, tanto la IA lo ignora.
+
 ## Ispirazione per crearsi il database
 
 https://www.listediparole.it/index.htm
