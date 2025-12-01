@@ -18,7 +18,7 @@ Non è possibile avere la lista di tutte le parole inserite, ma solo quante ce n
 
 E' possibile inserire più volte lo stesso collegamento, tanto la IA lo ignora.
 
-E' possibile inserire due volte la stessa parola, ma questo è utile per il cambio di semantica. Esempio: https://sapere.virgilio.it/parole/sinonimi-e-contrari/bianco se clicate su smorto i sinonimi cambiano rispetto a bianco.
+E' possibile inserire due volte la stessa parola, ma questo è utile per il cambio di semantica. Esempio: https://sapere.virgilio.it/parole/sinonimi-e-contrari/bianco se clicate su smorto i sinonimi cambiano rispetto a bianco e vedete che è aggiunto due voilte lo stesso sinonimo: "pallido".
 
 E' possibile inserire la parola vuota ma la parola vuota è sinonimo o contrario di tutte le parole, così dicono i requisiti.
 
