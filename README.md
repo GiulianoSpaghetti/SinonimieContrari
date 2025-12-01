@@ -5,7 +5,7 @@ Sono ammessi un massimo di 10 sinonimi e di 10 contrari a parola.
 
 ## Come si utilizza
 
-Seguite le istruzioni a video per organizzarvi il vostro database (attenzione: nulla può essere rimosso, tutto può essere aggiunto).
+Seguite le istruzioni a video per organizzarvi il vostro database (attenzione: c'é il numero di parole, ma non il primo id e non viene eliminato automaticamente l'id del sinonimo o del contrario).
 A questo punto col programma acceso basta che dite nel microfono "ciao ia, ti va di giocare?" e giocate.
 
 ## Dove funziona il database
