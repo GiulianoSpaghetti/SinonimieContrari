@@ -15,6 +15,8 @@ Su qualsiasi sistema montante NPU che abbia il dotnet installato, anche android 
 Se si elimina una parola, la gestione dei collegamenti è manuale.
 Non è possibile avere la lista di tutte le parole inserite, ma solo quante ce ne sono.
 E' possibile inserire più volte lo stesso sinonimo o contrario, tanto la IA lo ignora.
+E' possibile inserire due volte la stessa parola.
+E' possibile inserire la parola vuota.
 
 ## Ispirazione per crearsi il database
 
