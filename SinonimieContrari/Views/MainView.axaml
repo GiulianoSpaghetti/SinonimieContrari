@@ -1,0 +1,87 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:SinonimieContrari.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="SinonimieContrari.Views.MainView"
+             x:DataType="vm:MainViewModel">
+  <Design.DataContext>
+    <!-- This only sets the DataContext for the previewer in an IDE,
+         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+    <vm:MainViewModel />
+  </Design.DataContext>
+  <Grid>
+	  <Grid.RowDefinitions>
+          <RowDefinition Height="15"/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+          <RowDefinition/>
+       </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+          <ColumnDefinition/>
+          <ColumnDefinition/>
+          <ColumnDefinition/>
+          <ColumnDefinition/>
+      </Grid.ColumnDefinitions>
+      <TextBlock Grid.Row="1" Grid.Column="0">Id</TextBlock>
+      <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Id, Mode=TwoWay}"/>
+      <TextBlock Grid.Row="2" Grid.Column="0">Parola</TextBlock>
+      <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Testo, Mode=TwoWay}"/>
+      <TextBlock Grid.Row="3" Grid.Column="0">Sinonime</TextBlock>
+      <TextBox Grid.Row="4" Grid.Column="1" Text="{Binding Sinonimo0, Mode=TwoWay}"/>
+      <TextBox Grid.Row="5" Grid.Column="1" Text="{Binding Sinonimo1, Mode=TwoWay}"/>
+      <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding Sinonimo2, Mode=TwoWay}"/>
+      <TextBox Grid.Row="7" Grid.Column="1" Text="{Binding Sinonimo3, Mode=TwoWay}"/>
+      <TextBox Grid.Row="8" Grid.Column="1" Text="{Binding Sinonimo4, Mode=TwoWay}"/>
+      <TextBox Grid.Row="9" Grid.Column="1" Text="{Binding Sinonimo5, Mode=TwoWay}"/>
+      <TextBox Grid.Row="10" Grid.Column="1" Text="{Binding Sinonimo6, Mode=TwoWay}"/>
+      <TextBox Grid.Row="11" Grid.Column="1" Text="{Binding Sinonimo7, Mode=TwoWay}"/>
+      <TextBox Grid.Row="12" Grid.Column="1" Text="{Binding Sinonimo8, Mode=TwoWay}"/>
+      <TextBox Grid.Row="13" Grid.Column="1" Text="{Binding Sinonimo9, Mode=TwoWay}"/>
+      <TextBlock Grid.Row="14" Grid.Column="0">Contrari</TextBlock>
+      <TextBox Grid.Row="15" Grid.Column="1" Text="{Binding Contrario0, Mode=TwoWay}"/>
+      <TextBox Grid.Row="16" Grid.Column="1" Text="{Binding Contrario1, Mode=TwoWay}"/>
+      <TextBox Grid.Row="17" Grid.Column="1" Text="{Binding Contrario2, Mode=TwoWay}"/>
+      <TextBox Grid.Row="18" Grid.Column="1" Text="{Binding Contrario3, Mode=TwoWay}"/>
+      <TextBox Grid.Row="19" Grid.Column="1" Text="{Binding Contrario4, Mode=TwoWay}"/>
+      <TextBox Grid.Row="20" Grid.Column="1" Text="{Binding Contrario5, Mode=TwoWay}"/>
+      <TextBox Grid.Row="21" Grid.Column="1" Text="{Binding Contrario6, Mode=TwoWay}"/>
+      <TextBox Grid.Row="22" Grid.Column="1" Text="{Binding Contrario7, Mode=TwoWay}"/>
+      <TextBox Grid.Row="23" Grid.Column="1" Text="{Binding Contrario8, Mode=TwoWay}"/>
+      <TextBox Grid.Row="24" Grid.Column="1" Text="{Binding Contrario9, Mode=TwoWay}"/>
+      <TextBlock Grid.Row="25" Grid.Column="0" Text="{Binding Errore}"/>
+      <Button Grid.Row="26" Grid.Column="0" Content="Carica" Command="{Binding GetParola}"/>
+      <Button Grid.Row="26" Grid.Column="1" Content="Inserisci" Command="{Binding InserisciParola}"/>
+      <Button Grid.Row="26" Grid.Column="2" Content="Modifica" Command="{Binding ModificaParola}"/>
+      <Button Grid.Row="26" Grid.Column="3" Content="Elimina" Command="{Binding EliminaParola}"/>
+      <TextBlock Grid.Row="27" Grid.Column="0" Text="Puoi provare a dire nel microfono 'Hei IA vuoi giocare?' quando hai finito di inserire le parole." TextWrapping="Wrap" />
+	  <TextBlock Grid.Row="27" Grid.Column="1" Text="This software is under MIT and is distribuited free. If you paid you are be scammed." TextWrapping="Wrap" />
+      <TextBlock Grid.Row="27" Grid.Column="2" Text="ⓒ Giulio Sorrentino 2025" TextWrapping="Wrap"/>
+      <TextBlock Grid.Row="0" Grid.Column="3" Text="{Binding Numero}"/>
+  </Grid>
+</UserControl>
