@@ -22,6 +22,8 @@ E' possibile inserire la parola vuota.
 
 https://www.listediparole.it/index.htm
 
+https://sapere.virgilio.it/parole/sinonimi-e-contrari/divertente
+
 ## Donazioni
 
 https://numerone.altervista.org/donazioni.php
