@@ -22,6 +22,8 @@ E' possibile inserire due volte la stessa parola, ma questo è utile per il camb
 
 E' possibile inserire la parola vuota ma la parola vuota è sinonimo o contrario di tutte le parole, così dicono i requisiti.
 
+E' possibile inserire un collegamento alla medesima parola (un cappio nel grafo): è utile per fare gli scherzetti.
+
 ## Ispirazione per crearsi il database
 
 https://www.listediparole.it/index.htm
