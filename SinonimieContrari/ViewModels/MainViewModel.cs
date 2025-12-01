@@ -224,6 +224,7 @@ public class MainViewModel : ViewModelBase
     }
     public void InserisciParola()
     {
+        Errore = "";
         Parola p = new Parola();
         p.parola = Testo;
         p.contrario0 = Contrario0;
@@ -252,6 +253,7 @@ public class MainViewModel : ViewModelBase
 
     public void GetParola()
     {
+        Errore = "";
         query = con.Table<Parola>().Where(x => x.Id == _id);
         p = query.FirstOrDefault();
         try
@@ -286,6 +288,7 @@ public class MainViewModel : ViewModelBase
 
     public void ModificaParola()
     {
+        Errore = "";
         Parola p = new Parola();
         p.Id = _id;
         p.parola = Testo;
@@ -314,6 +317,7 @@ public class MainViewModel : ViewModelBase
 
     public void EliminaParola()
     {
+        Errore = "";
         Parola p = new Parola();
         p.Id = _id;
         con.Delete<Parola>(p.Id);
