@@ -1,4 +1,6 @@
 ## Sinonimi e contrari
+Il gioco dei sinonimi e dei contrari è un vecchio gioco che facevano i maestri (non i professori) per premiare i bambini più bravi
+per cui quelli che oggi sembrano bug sono in realtà le regole del gioco, perché era possibile barare, a discrezione del maestro.
 
 Un semplicissimo sistema per costruirsi un database per giocare a sinonimi e contrari.
 Sono ammessi un massimo di 10 sinonimi e di 10 contrari a parola.
