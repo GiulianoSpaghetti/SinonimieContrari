@@ -11,7 +11,7 @@ la stessa e che sia collegata direttamente, fa da ponte, quante volte si vuole.
 ## Come si utilizza
 
 Seguite le istruzioni a video per organizzarvi il vostro database (attenzione: c'é il numero di parole, ma non il primo id e non viene eliminato automaticamente l'id del sinonimo o del contrario alla cancellazione della parola).
-A questo punto col programma acceso basta che dite nel microfono "ciao ia, ti va di giocare?" e giocate.
+A questo punto basta che dite nel microfono "ciao ia, ti va di giocare?" e giocate, an che a programma chiuso.
 
 ## Dove funziona il database
 Su qualsiasi sistema montante NPU che abbia il dotnet installato, anche android 16 o debian. Basta portarsi il database.
