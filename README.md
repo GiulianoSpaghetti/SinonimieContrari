@@ -14,7 +14,7 @@ Seguite le istruzioni a video per organizzarvi il vostro database (attenzione: c
 A questo punto basta che dite nel microfono "ciao ia, ti va di giocare?" e giocate, an che a programma chiuso.
 
 ## Dove funziona il database
-Su qualsiasi sistema montante NPU che abbia il dotnet installato, anche android 16 o debian. Basta portarsi il database.
+Su qualsiasi sistema montante NPU che abbia il dotnet installato, anche android 16 o debian. Basta portarsi il database, che può essere letto coi driver sqlite.
 
 TRamite Copilot (il sucessoe di chatgpt) ho ottenuto un diagramma che mostra come il otnet faccia da mente tra npu e database.
 
