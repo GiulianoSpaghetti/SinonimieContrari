@@ -19,12 +19,9 @@ A questo punto basta che dite nel microfono "ciao ia, ti va di giocare?" e gioca
 ## Dove funziona il database
 Su qualsiasi sistema montante NPU che abbia il dotnet installato, anche android 16 o debian. Basta portarsi il database, che può essere letto coi driver sqlite.
 
-TRamite Copilot (il sucessoe di chatgpt) ho ottenuto un diagramma che mostra come il otnet faccia da mente tra npu e database.
+Tramite Copilot (il sucessore di chatgpt) ho ottenuto un diagramma che mostra come il dotnet faccia da mente tra npu e database.
 
 <img width="1024" height="1536" alt="1" src="https://github.com/user-attachments/assets/814f40cc-2fd5-49ff-beaf-4b495e39a642" />
-
-
-https://copilot.microsoft.com/shares/ycecKZnmwVhreoKjWzdWz (qui la conversazione, bisogna loggarsi per poter chattare con chatgpt)
 
 
 ## Bug noti
