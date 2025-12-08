@@ -28,7 +28,10 @@ https://copilot.microsoft.com/shares/ycecKZnmwVhreoKjWzdWz (qui la conversazione
 
 
 ## Bug noti
-Se si elimina una parola, la gestione dei collegamenti è manuale, ma questi sono i requisiti.
+Se si elimina una parola, la gestione dei collegamenti è manuale, ma questi sono i requisiti. Cercherò di spiegarmi: onedrive mantiene lo storico dei link dei files. Nel momento in cui un file viene cancellato onedrive sceglie di cancellare tutti i link. Altri non lo fanno.
+
+<img width="1600" height="852" alt="Screenshot 2025-12-08 220437" src="https://github.com/user-attachments/assets/2061209b-850f-440a-9141-f363daea256c" />
+
 
 Non è possibile avere la lista di tutte le parole inserite, ma solo quante ce ne sono.
 
