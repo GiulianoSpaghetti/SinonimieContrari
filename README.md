@@ -1,6 +1,6 @@
 ## Sinonimi e contrari
 
-Come e farsi spiegare il readme da gemini: https://g.co/gemini/share/09062b7929d9 , basta loggarsi con l'account Google.
+(Fatti spiegare il progetto da Gemini)[https://g.co/gemini/share/09062b7929d9]: basta loggarti con l'account.
 
 Il gioco dei sinonimi e dei contrari è un vecchio gioco che facevano i maestri (non i professori) per premiare i bambini più bravi
 per cui quelli che oggi sembrano bug sono in realtà le regole del gioco, perché era possibile barare, a discrezione del maestro.
